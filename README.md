@@ -31,7 +31,7 @@ This guide will walk you through setting up an **AWS EC2 instance** to run a CLI
 
 <div align = "center">
 
-<img src = "'Instance EC2.png'">
+<img src = "Instance EC2.png">
 <img src = "EC2.png">
 
 </div>
