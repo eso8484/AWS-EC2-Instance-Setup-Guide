@@ -26,7 +26,31 @@ This guide will walk you through setting up an **AWS EC2 instance** to run a CLI
    chmod 400 your-key.pem
    ssh -i your-key.pem ubuntu@your-instance-ip
    ```
-   Replace `your-instance-ip` with the **Public IPv4** of your instance 
+   Replace `your-instance-ip` with the **Public IPv4** of your instance
+ 
+## Install Dependancies for Smooth Experince
+```bash
+sudo apt update && sudo apt upgrade -y
+sudo apt install -y build-essential clang make gcc pkg-config libssl-dev libcrypto++-dev libc6-dev zlib1g-dev curl wget tmux screen
+```
+## Detach & Keep Sessions Running (Optional)
+### Using **tmux**:
+- Start tmux: `tmux`
+- Detach session: `Ctrl + b`, then `d`
+- Reattach session: `tmux attach`
+
+### Using **screen**:
+- Start screen: `screen`
+- Detach: `Ctrl + a`, then `d`
+- Reattach: `screen -r`
+
+
+## Some Node project may require Rust, You may install Rust and Cargo ahead for such Projects
+```bash
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+source $HOME/.cargo/env
+```
+
 ## **Your setup should look like this**
 
 <div align = "center">
