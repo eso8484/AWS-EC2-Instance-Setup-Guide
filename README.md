@@ -28,10 +28,14 @@ This guide will walk you through setting up an **AWS EC2 instance** to run a CLI
    ```
    Replace `your-instance-ip` with the **Public IPv4** of your instance 
 ## **Your setup should look like this**
-<div align = "centre">
+
+<div align = "center">
+
 <img src = "'Instance EC2.png'">
 <img src = "EC2.png">
+
 </div>
+
 ## **Conclusion**
 You have successfully set up an **AWS EC2 instance** and started a **crypto node** using Bitcoin Core. You can use similar steps for Ethereum, Solana, or other blockchain nodes.
 
