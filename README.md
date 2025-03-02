@@ -62,8 +62,7 @@ source $HOME/.cargo/env
 
 ## **Conclusion**
 You have successfully set up an **AWS EC2 instance** and started a **crypto node** using Bitcoin Core. You can use similar steps for Ethereum, Solana, or other blockchain nodes.
-
-Let me know if you need further assistance! 🚀
+Let me know if you need further assistance by connecting with via the links in the icons below! 🚀
 
 ## 🌐 Connect With Me
 
