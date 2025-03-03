@@ -62,7 +62,9 @@ source $HOME/.cargo/env
 <img src = "EC2.png" alt = "EC2 Config Screenshot">
 
 </div>
+
 ---
+
 ## **Conclusion**
 You have successfully set up an **AWS EC2 instance**.
 Let me know if you need further assistance by connecting with via the links in the icons below! 🚀
