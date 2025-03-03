@@ -3,6 +3,7 @@
 
 This guide will walk you through setting up an **AWS EC2 instance** to run a CLI-based **crypto node** for free using the AWS Free Tier.
 ---
+
 ## **1. Create an AWS Account**
 1. Go to [AWS Free Tier](https://aws.amazon.com/free/) and sign up.
 2. Provide your email, password, and billing details.
@@ -65,7 +66,7 @@ source $HOME/.cargo/env
 ## **Conclusion**
 You have successfully set up an **AWS EC2 instance**.
 Let me know if you need further assistance by connecting with via the links in the icons below! 🚀
-
+---
 ## 🌐 Connect With Me
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/oche_21)
