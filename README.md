@@ -66,8 +66,9 @@ source $HOME/.cargo/env
 ## **Conclusion**
 You have successfully set up an **AWS EC2 instance**.
 Let me know if you need further assistance by connecting with via the links in the icons below! 🚀
+
 ---
-## 🌐 Connect With Me
+## **🌐 Connect With Me**
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/oche_21)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eso8484)
