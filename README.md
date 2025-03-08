@@ -28,7 +28,7 @@ This guide will walk you through setting up an **AWS EC2 instance** to run a CLI
    chmod 400 your-key.pem
    ssh -i your-key.pem ubuntu@your-instance-ip
    ```
-   Replace `your-instance-ip` with the **Public IPv4** of your instance
+   Replace `your-instance-ip` with the **Public IPv4** of your instance and replace `your-key.pem` with the actual name you gave your `.pem` file
  
 ## Install Dependancies for Smooth Experince
 ```bash
