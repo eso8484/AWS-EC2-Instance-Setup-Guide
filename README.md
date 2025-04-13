@@ -6,7 +6,7 @@ This guide will walk you through setting up an **AWS EC2 instance** to run a CLI
 
 ## **1. Create an AWS Account**
 1. Go to [AWS Free Tier](https://aws.amazon.com/free/) and sign up.
-2. Provide your email, password, and billing details(Use Grey Card or Geegpay or Bybit Card, Zenith Card worked for some persons).
+2. Provide your email, password, and billing details (Use Grey Card or Geegpay or Bybit Card, Zenith Card worked for some persons).
 3. Verify your phone number and choose **Basic Support (Free)**.
 ---
 ## **2. Launch an EC2 Instance**
